@@ -9,11 +9,9 @@ Simple breathing companion app for M5Stack Cardputer with visual & aural cues, 9
 
 additional "combo" preset for seamless transition from "square" to "triangle"
 
-```
 2 themes with different visuals & sounds:
-monochrome (default)
-LED
-```
+- monochrome (default)
+- LED
 
 sound and display brightness level adjustments
 
