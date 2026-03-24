@@ -18,7 +18,7 @@ sound and display brightness level adjustments
 compatible with M5Launcher
 
 ## usage
-Press 1,2 or 3 to excercise with the desired preset / pattern
+Press 1, 2 or 3 to excercise with the desired preset/pattern
 
 
 ## bindings
