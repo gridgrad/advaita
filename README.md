@@ -1,4 +1,4 @@
-# advaita
+# ADVaita
 Simple breathing companion app for M5Stack Cardputer with visual & aural cues, developed 99% by Antigravity.
 
 ## features
