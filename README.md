@@ -1,5 +1,5 @@
 # advaita
-Simple breathing companion app for M5Stack Cardputer with visual & aural cues, 99% developed by Antigravity.
+Simple breathing companion app for M5Stack Cardputer with visual & aural cues, developed 99% by Antigravity.
 
 ## features
 2 breathing patterns "square", "triangle" to exercise:
@@ -11,15 +11,16 @@ additional "combo" preset for seamless transition from "square" to "triangle"
 
 2 themes with different visuals & sounds:
 - monochrome (default)
-- LED
+- LED (with random colors)
 
 sound and display brightness level adjustments
+
+auto display off after 30 seconds of inactivity when not exercising (press any key to wake) and, auto shutdown after 5 minutes of inactivity (in juice we trust).
 
 compatible with M5Launcher
 
 ## usage
 Press 1, 2 or 3 to excercise with the desired preset/pattern
-
 
 ## bindings
 - **h:** shows help (just the key bindings)
