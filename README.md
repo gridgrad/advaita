@@ -22,16 +22,14 @@ Press 1,2 or 3 to excercise with the desired preset / pattern
 
 
 ## bindings
-```
-**h:** shows help (just the key bindings)
-**esc:** exit to menu
-**space:** pause/resume
-**a:** switch theme
-**s:** sound on/off
-**d:** display on/off
-**-+:** sound level
-**.;:** display brightness level
-```
+- **h:** shows help (just the key bindings)
+- **esc:** exit to menu
+- **space:** pause/resume
+- **a:** switch theme
+- **s:** sound on/off
+- **d:** display on/off
+- **-+:** sound level
+- **.;:** display brightness level
 
 ## installation
 Compile the .ino to .bin with Arduino IDE, or download it directly from M5Burner.
