@@ -4,10 +4,8 @@ Simple breathing companion app for M5Stack Cardputer with visual & aural cues, 9
 ## features
 2 breathing patterns "square", "triangle" to exercise:
 
-```
-Square Breathing Pattern: 4 sec. inhale > 4 sec. hold > 4 sec. exhale > 4 sec. hold
-Triangle Breathing Pattern: 4 sec. inhale > 7 sec. hold > 8 sec. exhale
-```
+- Square Breathing Pattern: 4 sec. inhale > 4 sec. hold > 4 sec. exhale > 4 sec. hold
+- Triangle Breathing Pattern: 4 sec. inhale > 7 sec. hold > 8 sec. exhale
 
 additional "combo" preset for seamless transition from "square" to "triangle"
 
